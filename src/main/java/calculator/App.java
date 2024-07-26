@@ -18,5 +18,7 @@ public class App {
         char operator = sc.next().charAt(0);
 
         System.out.println("operator =" + operator);
+
+        int result = 0;
     }
 }
