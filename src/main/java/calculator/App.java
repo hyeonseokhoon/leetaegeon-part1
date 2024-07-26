@@ -20,5 +20,25 @@ public class App {
         System.out.println("operator =" + operator);
 
         int result = 0;
+        switch (operator) {
+            case '+' :
+                result = num1 + num2;
+                break;
+            case '-' :
+                result = num1 - num2;
+                break;
+            case '*' :
+                result = num1 * num2;
+                break;
+            case '/' :
+                result = num1 / num2;
+                break;
+            case '%' :
+                result = num1 % num2;
+            default :
+                System.out.println("잘못된 연산자 입력");
+                break;
+        }
+        System.out.println("결과:" + result);
     }
 }
