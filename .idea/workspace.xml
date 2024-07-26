@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbccc591-8f54-46e0-b8bf-1c0192b1eef2" name="Changes" comment="init commit">
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/calculator/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/calculator/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/calculator/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,16 +76,21 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Gradle.nbcamp-java-personal-task [:App.main()].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/shfkf/Downloads/nbcamp-java-personal-task&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -118,7 +133,51 @@
       <workItem from="1713088532647" duration="253000" />
       <workItem from="1721793476087" duration="42000" />
       <workItem from="1721793534386" duration="39000" />
-      <workItem from="1721793577803" duration="179000" />
+      <workItem from="1721793577803" duration="535000" />
+      <workItem from="1721794125440" duration="26000" />
+      <workItem from="1721794158525" duration="26000" />
+      <workItem from="1721794306667" duration="55000" />
+      <workItem from="1721795154873" duration="353000" />
+      <workItem from="1721798231933" duration="6000" />
+      <workItem from="1721798245836" duration="7000" />
+      <workItem from="1721798259989" duration="7000" />
+      <workItem from="1721798273550" duration="2000" />
+      <workItem from="1721798290685" duration="32000" />
+      <workItem from="1721798329963" duration="10000" />
+      <workItem from="1721798346547" duration="8000" />
+      <workItem from="1721803602595" duration="734000" />
+      <workItem from="1721804352266" duration="239000" />
+      <workItem from="1721804600394" duration="866000" />
+      <workItem from="1721805562429" duration="17000" />
+      <workItem from="1721805588144" duration="5000" />
+      <workItem from="1721805606508" duration="5000" />
+      <workItem from="1721806155536" duration="18000" />
+      <workItem from="1721806684508" duration="35000" />
+      <workItem from="1721806834441" duration="379000" />
+      <workItem from="1721807358398" duration="14000" />
+      <workItem from="1721807456037" duration="8000" />
+      <workItem from="1721807473381" duration="34000" />
+      <workItem from="1721807669441" duration="57000" />
+      <workItem from="1721807754531" duration="4000" />
+      <workItem from="1721807897699" duration="186000" />
+      <workItem from="1721808096393" duration="53000" />
+      <workItem from="1721808280613" duration="277000" />
+      <workItem from="1721808568708" duration="293000" />
+      <workItem from="1721808870004" duration="49000" />
+      <workItem from="1721811424559" duration="56000" />
+      <workItem from="1721811995700" duration="61000" />
+      <workItem from="1721908550008" duration="19000" />
+      <workItem from="1721911379841" duration="8000" />
+      <workItem from="1721912520698" duration="394000" />
+      <workItem from="1721912941303" duration="47000" />
+      <workItem from="1721913678198" duration="13000" />
+      <workItem from="1721914253306" duration="145000" />
+      <workItem from="1721914406042" duration="5000" />
+      <workItem from="1721914414383" duration="24000" />
+      <workItem from="1721915266328" duration="3000" />
+      <workItem from="1721916458673" duration="42000" />
+      <workItem from="1721964857118" duration="22000" />
+      <workItem from="1721993502547" duration="1431000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -160,5 +219,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
