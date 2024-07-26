@@ -13,5 +13,10 @@ public class App {
         int num2 = sc.nextInt();
 
         System.out.println("num1, num2 = " + num1 + "," + num2);
+
+        System.out.print("사칙연산 기호를 입력해주세요: ");
+        char operator = sc.next().charAt(0);
+
+        System.out.println("operator =" + operator);
     }
 }
