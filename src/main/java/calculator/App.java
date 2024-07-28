@@ -5,9 +5,14 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
 
+
+
+        Scanner sc = new Scanner(System.in);
         int result = 0;
+
+        int[] boxlist = new int[10];
+        int lastIndex = 0;
 
         do {
             System.out.print("첫 번째 숫자를 입력하세요: ");
@@ -41,8 +46,20 @@ public class App {
                 default:
                     System.out.println("잘못된 연산자 입력");
                     break;
+
             }
+
             System.out.println("결과:" + result);
+
+
+
+            boxlist[lastIndex] = result;
+            lastIndex++;
+            int remain = 10 - lastIndex;
+
+            System.out.println("저장 공간이 " + remain + " 남았습니다.");
+
+
             System.out.println("더 계산하시겠습니까? (exit 입력 시 종료)");
 
         } while (!sc.next().equals("exit"));
