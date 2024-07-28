@@ -66,7 +66,7 @@ public class App {
                     boxList[i] = boxList[i+1];
                 }
                 boxList[boxList.length-1] = result;
-            } *
+            } */
             System.out.print("가장 먼저 저장된 연산 결과를 삭제하시겠습니까? (remove 입력 시 삭제)");
             String remove = sc.next();
             if(remove.equals("remove")){
