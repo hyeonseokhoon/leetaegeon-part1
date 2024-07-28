@@ -66,12 +66,22 @@ public class App {
                     boxList[i] = boxList[i+1];
                 }
                 boxList[boxList.length-1] = result;
-            } */
+            } *
             System.out.print("가장 먼저 저장된 연산 결과를 삭제하시겠습니까? (remove 입력 시 삭제)");
             String remove = sc.next();
             if(remove.equals("remove")){
                 boxList.remove(0);
             }
+
+            System.out.println("저장된 연산결과를 조회하시겠습니까? (inquiry 입력 시 조회)");
+            String inquiry = sc.next();
+            String str = boxList.toString();
+            if(inquiry.equals("inquiry")){
+                for(int i=0; i<boxList.size(); i++) {
+                    System.out.println(boxList.get(i));
+                }
+            }
+
 
             System.out.print("더 계산하시겠습니까? (exit 입력 시 종료)");
 
