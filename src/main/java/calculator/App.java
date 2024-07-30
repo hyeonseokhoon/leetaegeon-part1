@@ -4,9 +4,10 @@ import java.util.*;
 
 
 public class App {
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
         Scanner sc = new Scanner(System.in);
         Calculator calculator = new Calculator();
+
 
 
        int result = 0;
@@ -28,12 +29,11 @@ public class App {
             System.out.print("사칙연산 기호를 입력해주세요: ");
             char operator = sc.next().charAt(0);
 
-            //try {
-                calculator.calc(num1, num2, operator);
-                calculator.remove();
-          //  } catch(BadInputException e) {
-           //     System.out.println(e.getMessage());
-          //  }
+
+            calculator.calc(num1, num2, operator);
+            calculator.remove();
+
+
             System.out.println("operator =" + operator);
 
             switch (operator) {

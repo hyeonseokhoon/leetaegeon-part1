@@ -7,6 +7,8 @@ public class Calculator {
     /* 연산 결과를 저장하는 컬렉션 타입 필드 선언 및 생성 */
     private List<Integer> test12 = new ArrayList<>();
 
+
+
     public List<Integer> getTest12() {
         return test12;
     }
